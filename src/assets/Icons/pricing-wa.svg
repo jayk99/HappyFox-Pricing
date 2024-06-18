@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="80px" viewBox="0 0 90 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>WA</title>
+    <g id="Help-Desk-Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01A-Pricing_Help-Desk" transform="translate(-1228.000000, -2548.000000)">
+            <g id="WA" transform="translate(1228.000000, 2548.000000)">
+                <rect id="Rectangle" x="0" y="0" width="90" height="80"></rect>
+                <circle id="Oval" stroke="#FFD243" stroke-width="2" transform="translate(28.090909, 56.909091) rotate(-315.000000) translate(-28.090909, -56.909091) " cx="28.0909091" cy="56.9090909" r="8.25667059"></circle>
+                <circle id="Oval-Copy-2" stroke="#FFD243" stroke-width="2" transform="translate(61.909091, 23.090909) rotate(-315.000000) translate(-61.909091, -23.090909) " cx="61.9090909" cy="23.0909091" r="8.25667059"></circle>
+                <circle id="Oval" stroke="#FFD243" stroke-width="2" transform="translate(61.909091, 56.909091) rotate(-45.000000) translate(-61.909091, -56.909091) " cx="61.9090909" cy="56.9090909" r="8.25667059"></circle>
+                <circle id="Oval-Copy-2" stroke="#FFD243" stroke-width="2" transform="translate(28.090909, 23.090909) rotate(-45.000000) translate(-28.090909, -23.090909) " cx="28.0909091" cy="23.0909091" r="8.25667059"></circle>
+                <circle id="Oval" stroke="#FF6200" stroke-width="2" cx="45" cy="40" r="24.4558441"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

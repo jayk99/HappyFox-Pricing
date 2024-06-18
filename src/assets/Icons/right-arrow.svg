@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="10px" viewBox="0 0 8 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UI/arrow CTA</title>
+    <g id="Help-Desk-Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01A-Pricing_Help-Desk" transform="translate(-1317.000000, -2761.000000)">
+            <g id="Group-2" transform="translate(1218.000000, 2757.000000)">
+                <g id="Group" transform="translate(94.704167, 1.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                    <polyline id="Line-4-Copy-3" stroke="#000000" stroke-width="2" stroke-linecap="round" transform="translate(8.000000, 8.000000) rotate(-90.000000) translate(-8.000000, -8.000000) " points="4 6 8.03905016 10 12 6"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

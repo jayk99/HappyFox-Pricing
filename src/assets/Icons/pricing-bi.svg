@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="80px" viewBox="0 0 90 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BI</title>
+    <g id="Help-Desk-Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01A-Pricing_Help-Desk" transform="translate(-795.000000, -2546.000000)">
+            <g id="BI" transform="translate(795.000000, 2546.000000)">
+                <rect id="Rectangle" x="0" y="0" width="90" height="80"></rect>
+                <path d="M44.783,13.002 L44.7837908,40.24323 L72.997,40.243 L72.9957592,40.4746845 C72.8687082,47.5802124 69.8947631,54.014931 65.13168,58.765397 L64.8115021,59.0795884 C59.7412966,63.9749593 52.7361087,67 45,67 C37.2638913,67 30.2587034,63.9749593 25.1884979,59.0795884 C20.1312164,54.1966959 17,47.4519452 17,40 C17,32.5480548 20.1312164,25.8033041 25.1884979,20.9204116 C30.2587034,16.0250407 37.2638913,13 45,13 L44.783,13.002 Z" id="Combined-Shape" stroke="#FF6200" stroke-width="2"></path>
+                <path d="M35.811091,19.1001746 C44.1359764,19.5317368 51.6351523,22.9662059 57.1640772,28.3045862 C62.6722542,33.6229335 66.2243149,40.8318735 66.6798964,48.8382036 L66.6798964,48.8382036 L35.8108199,48.8378493 Z" id="Combined-Shape" stroke="#FFD243" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

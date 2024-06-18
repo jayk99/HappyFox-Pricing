@@ -1,0 +1,251 @@
+.top-border {
+    border: 1px solid rgb(255 58 58 / 20%);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom: none;
+}
+.top-button {
+    padding: 10px 26px 10px;
+}
+.arrow-down {
+    padding: 1px;
+    height: 10px;
+    width: 10px;
+    margin-left: 4px;
+    margin-top: 2px;
+}
+.login {
+    padding: 7px 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #646F79;
+    border-bottom: 2px solid transparent;
+    margin-left: 776.3px;
+    
+}
+.padding-nav {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/* helpdesk-padding {
+    padding-top: 3px;
+    padding-bottom: 3px;
+} */
+.helpdesk-border {
+    border: 1px solid rgb(255 58 58 / 20%);
+    border-bottom: none;
+}
+.helpdeskm {
+    margin-left: 880px;
+}
+.header-red {
+    font-size: 14px;
+    font-weight: 500;
+    background: #ff3a3a;
+    color: #fff;
+    outline: 0;
+    border: none;
+    display: inline-block;
+    box-shadow: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    position: relative;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.wrapper-div {
+    max-width: 1140px;
+}
+.nav-padding {
+    padding: 7px 10px;
+}
+.a-padding {
+    padding: 15px;
+}
+button-margin {
+    margin-top: 70px;
+}
+.plan-margin {
+    margin-top: 87px;
+    margin-bottom: 76px;
+}
+.plan-coloring {
+    background-color: #ffeada;
+    font-size: 16px;
+    padding: 22px 0 16px;
+    color: #212529;
+}
+.list-margin {
+    margin-right: 120px;
+}
+.faq-box {
+    width: 1110px;
+    height: auto;
+    padding: 60px 100px;
+    margin-top: 60px;
+    box-shadow: 0 20px 10px 0 rgba(0, 0, 0, .08);
+    background-color: #fff;
+  
+  }
+  
+  .faq-question {
+    width: 910px;
+    height: 61.195x;
+    padding: 30px 0;
+    margin-bottom: 1px;
+    border-bottom: solid 1px rgb(236, 232, 232);
+    margin-bottom: 1px;
+  }
+  /* .faq-container {
+    width: 1440px;
+    background-color: #fafafa;
+  } */
+  .faq-text {
+    margin-bottom: 60px;
+    margin-top: 10px;
+  }
+
+  /* .faq-ans{
+    margin-top: 1rem;
+    background-color: #fff; 
+  } */
+  .arrow-rotate {
+    transform: rotate(180deg);
+  }
+ /* faq css */
+
+ .frequently-asked-wrapper {
+    position: relative;
+
+}
+
+.frequently-asked-container {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.frequently-asked-container-rows {
+    /* display: flex; */
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.faq-container {
+    background: #fff;
+    border-radius: 16px;
+    margin-top: 60px;
+    padding: 60px 100px;
+    box-shadow: 0 20px 10px 0 rgba(0, 0, 0, .08);
+}
+
+.faq-container h3 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    margin: 10px 0 60px;
+    display: block;
+}
+
+.frequently-asked-queries {
+    width: 100%;
+    display: table;
+    margin: 0 auto;
+    max-width: 1140px;
+}
+
+.frequently-asked-queries-rows {
+    display: table;
+    margin: 0 auto;
+    max-width: 1140px;
+    width: 100%;
+}
+
+.queries-rows {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 0px;
+}
+
+.queries-column {
+    width: 100%;
+    cursor: pointer;
+    padding: 30px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    cursor: pointer;
+}
+
+.queries-column h6 {
+    font-size: 16px;
+    color: #000;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.queries-column p {
+    /* display: none; */
+    font-size: 16px;
+    color: #6d717e;
+    line-height: 30px;
+    font-weight: 300;
+    margin-top: 12px;
+    /* transition: transform 0.3s ease */
+
+    overflow: hidden;
+    transition: max-height 0.7s ease;
+}
+/* product css */
+.product-container {
+    width: 1100px;
+
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .plan{
+    position: sticky;
+    top: 0;
+  }
+ 
+.product-card {
+    width: auto;
+    height: auto;
+    padding: 35px 20px;
+    /* padding-top: 35px;
+    padding-bottom: 35px;
+    padding-right: 20px;
+    padding-left: 20px; */
+    /* border: 1px solid #e2e8f0; /* Light gray border */
+     /* border-radius: 0.5rem; Rounded corners */ 
+  }
+  .pricing-card:hover .pricing-card-button  {
+    background-color: #ff3a3a;
+    color: white;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

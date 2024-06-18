@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="80px" viewBox="0 0 90 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CB</title>
+    <g id="Help-Desk-Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01A-Pricing_Help-Desk" transform="translate(-795.000000, -2250.000000)">
+            <g id="CB" transform="translate(795.000000, 2250.000000)">
+                <rect id="Rectangle" x="0" y="0" width="90" height="80"></rect>
+                <g id="Group-7-Copy" transform="translate(22.444444, 13.000000)" stroke="#FFD243" stroke-width="2">
+                    <path d="M25.7777778,1 C32.6244432,1 38.8245001,3.6690303 43.3118642,7.98915604 C47.7852199,12.2957956 50.5555556,18.2443794 50.5555556,24.8170732 C50.5555556,31.1514619 47.9824829,36.9063274 43.7915881,41.1702147 C39.528787,45.5072607 33.593329,48.3030066 26.9804662,48.6065989 L26.9804662,48.6065989 L16.1483273,53.0183541 L19.0170712,47.7369774 C13.5540906,46.2510574 8.85619801,43.0080169 5.62744987,38.6797879 C2.71564787,34.7764342 1,29.9897628 1,24.8170732 C1,18.2443794 3.77033563,12.2957956 8.24369139,7.98915604 C12.7310554,3.6690303 18.9311124,1 25.7777778,1 Z" id="Oval-Copy-9" transform="translate(25.777778, 27.500000) scale(-1, 1) translate(-25.777778, -27.500000) "></path>
+                </g>
+                <rect id="Rectangle" stroke="#FF6200" stroke-width="2" fill="#FFFFFF" x="18.6111111" y="23.4285714" width="20.5555556" height="15.2857143" rx="2.88"></rect>
+                <rect id="Rectangle-Copy-8" stroke="#FF6200" stroke-width="2" fill="#FFFFFF" x="17" y="42.2857143" width="23.7777778" height="16.8571429" rx="2.88"></rect>
+                <line x1="23.25" y1="31.0714286" x2="34.5277778" y2="31.0714286" id="Line-2" stroke="#FF6200" stroke-width="2" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="80px" viewBox="0 0 90 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AI</title>
+    <g id="Help-Desk-Pricing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01A-Pricing_Help-Desk" transform="translate(-1229.000000, -2249.000000)">
+            <g id="AI" transform="translate(1229.000000, 2249.000000)">
+                <rect id="Rectangle" x="0" y="0" width="90" height="80"></rect>
+                <g id="Group-7" transform="translate(17.000000, 13.000000)" stroke-width="2">
+                    <path d="M24.8324515,1 C31.415803,1 37.3767275,3.61689415 41.6912773,7.8503742 C45.9988965,12.077054 48.664903,17.9156879 48.664903,24.3658537 C48.664903,30.5819654 46.1888964,36.2302096 42.1536299,40.4149451 C38.0532375,44.667219 32.3435166,47.4091908 25.9814512,47.7050481 L25.9814512,47.7050481 L15.6188971,52.0058917 L18.3613022,46.8603299 C13.094948,45.4070918 8.56676886,42.2232293 5.45589631,37.9729863 C2.65159705,34.1416004 1,29.4430146 1,24.3658537 C1,17.9156879 3.66600645,12.077054 7.97362572,7.8503742 C12.2881755,3.61689415 18.2491,1 24.8324515,1 Z" id="Oval-Copy-9" stroke="#FFD243"></path>
+                    <rect id="Rectangle" stroke="#FF6200" fill="#FFFFFF" x="42.8271605" y="29.8" width="8.75555556" height="18.4" rx="2.4"></rect>
+                    <ellipse id="Oval-Copy-5" stroke="#FF6200" fill="#FFFFFF" cx="47.2398589" cy="19.575" rx="6.76014109" ry="6.71428571"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
